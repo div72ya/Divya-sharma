@@ -23,4 +23,4 @@
 ---
 
 ### 📫 Connect with Me:
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/divya-sharma-student/))
+- [LinkedIn](https://www.linkedin.com/in/divya-sharma-student/)
